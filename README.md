@@ -27,17 +27,9 @@ A note on the language:
 
 Credits
 -------
-
-Thank you, [contributors](https://github.com/thoughtbot/guides/graphs/contributors)!
-
-![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
-
-Guides is maintained by [thoughtbot, inc](http://thoughtbot.com/community).
+Originally forked from [thoughtbot, inc](https://github.com/thoughtbot/guides). Made possible by support from [these contributors](https://github.com/thoughtbot/guides/graphs/contributors).
 
 License
 -------
-
-Guides is © 2014 thoughtbot, inc. It is distributed under the [Creative Commons
+It is distributed under the [Creative Commons
 Attribution License](http://creativecommons.org/licenses/by/3.0/).
-
-The names and logos for thoughtbot are trademarks of thoughtbot, inc.
