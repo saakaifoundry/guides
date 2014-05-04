@@ -10,7 +10,6 @@ Since this is a fork from [thoughtbot's guides](https://github.com/thoughtbot/gu
 
 * [Protocol](/protocol)
   * [Git](/protocol/git)
-  * [Rails](/protocol/rails)
   * [Open Source](/protocol/open-source)
 * [Code Review](/code-review)
 * [Best Practices](/best-practices)
