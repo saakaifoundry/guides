@@ -49,6 +49,7 @@ Ruby Gems
 
 * Declare dependencies in the `<PROJECT_NAME>.gemspec` file.
 * Reference the `gemspec` in the `Gemfile`.
+* Use simple quotation marks on `gemspec` and `Gemfile`.
 * Use [Bundler] to manage the gem's dependencies.
 * Use [Travis CI] for Continuous Integration, indicators showing whether GitHub
   pull requests can be merged, and to test against multiple Ruby versions when necessary.
