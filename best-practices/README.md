@@ -74,7 +74,7 @@ Rails
 * Generate necessary [Spring binstubs] for the project, such as `rake` and
   `rspec`, and add them to version control.
 * If there are default values, set them in migrations.
-* Keep `db/schema.rb` or `db/development_structure.sql` under version control.
+* Keep `db/schema.rb` or `db/structure.sql` under version control.
 * Use only one instance variable in each view.
 * Use SQL, not `ActiveRecord` models, in migrations.
 * Use the [`.ruby-version`] file convention to specify the Ruby version and
