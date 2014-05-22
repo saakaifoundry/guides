@@ -93,7 +93,6 @@ Rails
 Testing
 -------
 
-* Avoid `any_instance` in rspec-mocks and mocha. Prefer [dependency injection].
 * Avoid `its`, `let`, `let!`, `specify`, `before`, and `subject` in RSpec.
 * Avoid using instance variables in tests.
 * Disable real HTTP requests to external services with
@@ -109,7 +108,6 @@ Testing
 * Use integration tests to execute the entire app.
 * Use non-[SUT] methods in expectations when possible.
 
-[dependency injection]: http://en.wikipedia.org/wiki/Dependency_injection
 [`Delayed::Job` matcher]: https://gist.github.com/3186463
 [stubs and spies]: http://robots.thoughtbot.com/post/159805295/spy-vs-spy
 [assertions about state]: https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf?slide=51
