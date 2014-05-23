@@ -98,7 +98,6 @@ Testing
 * Disable real HTTP requests to external services with
   `WebMock.disable_net_connect!`.
 * Don't test private methods.
-* Test background jobs with a [`Delayed::Job` matcher].
 * Use [stubs and spies] \(not mocks\) in isolated tests.
 * Use a single level of abstraction within scenarios.
 * Use an `it` example or test method for each execution path through the method.
@@ -108,7 +107,6 @@ Testing
 * Use integration tests to execute the entire app.
 * Use non-[SUT] methods in expectations when possible.
 
-[`Delayed::Job` matcher]: https://gist.github.com/3186463
 [stubs and spies]: http://robots.thoughtbot.com/post/159805295/spy-vs-spy
 [assertions about state]: https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf?slide=51
 [Fake]: http://robots.thoughtbot.com/post/219216005/fake-it
