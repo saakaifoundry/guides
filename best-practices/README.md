@@ -104,12 +104,10 @@ Testing
 * Use stubs and spies to assert you sent outgoing messages.
 * Use a [Fake] to stub requests to external services.
 * Use integration tests to execute the entire app.
-* Use non-[SUT] methods in expectations when possible.
 
 [stubs and spies]: http://robots.thoughtbot.com/post/159805295/spy-vs-spy
 [assertions about state]: https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf?slide=51
 [Fake]: http://robots.thoughtbot.com/post/219216005/fake-it
-[SUT]: http://xunitpatterns.com/SUT.html
 
 Bundler
 -------
