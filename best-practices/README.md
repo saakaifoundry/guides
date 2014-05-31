@@ -95,7 +95,7 @@ Testing
 
 * Avoid using instance variables in tests.
 * Disable real HTTP requests to external services with
-  `WebMock.disable_net_connect!`.
+  `FakeWeb.allow_net_connect = false`.
 * Don't test private methods.
 * Use [stubs and spies] \(not mocks\) in isolated tests.
 * Use a single level of abstraction within scenarios.
