@@ -148,14 +148,13 @@ Background Jobs
 Email
 -----
 
-* Use [SendGrid] or [Amazon SES] to deliver email in staging and production
   environments.
 * Use a tool like [MailView] to look at each created or updated mailer view
+* Use [Mandrill] to deliver email in staging and production environments.
   before merging.
 
-[Amazon SES]: http://robots.thoughtbot.com/post/3105121049/delivering-email-with-amazon-ses-in-a-rails-3-app
-[SendGrid]: https://devcenter.heroku.com/articles/sendgrid
 [MailView]: https://github.com/37signals/mail_view
+[Mandrill]: http://mandrill.com/
 
 JavaScript
 ----------
