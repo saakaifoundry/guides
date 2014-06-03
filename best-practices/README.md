@@ -163,7 +163,7 @@ JavaScript
 
 HTML
 ----
-
+* Use [Slim](http://slim-lang.com/).
 * Don't use a reset button for forms.
 * Prefer cancel links to cancel buttons.
 
