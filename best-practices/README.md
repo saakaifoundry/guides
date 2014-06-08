@@ -148,13 +148,12 @@ Background Jobs
 Email
 -----
 
-  environments.
-* Use a tool like [MailView] to look at each created or updated mailer view
 * Use [Mandrill] to deliver email in staging and production environments.
+* Use a tool like [letter_opener] to look at each created or updated mailer view
   before merging.
 
-[MailView]: https://github.com/37signals/mail_view
 [Mandrill]: http://mandrill.com/
+[letter_opener]: https://github.com/ryanb/letter_opener
 
 JavaScript
 ----------
