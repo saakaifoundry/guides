@@ -71,7 +71,7 @@ web interface or in the project's chat room.
 For changes which they can make themselves, they check out the branch.
 
     git checkout <branch-name>
-    ./bin/setup
+    ./bin/bootstrap
     git diff staging/master..HEAD
 
 They make small changes right in the branch, test the feature on their machine,
