@@ -3,11 +3,6 @@ Guides
 
 Guides for getting things done, programming well, and programming in style.
 
-UNDER ACTIVE REVIEW
-===================
-Since this is a fork from [thoughtbot's guides](https://github.com/thoughtbot/guides) we are reviewing it to fit in Neighbor.ly's specifications.
-
-
 * [Protocol](/protocol)
   * [Git](/protocol/git)
   * [Open Source](/protocol/open-source)
